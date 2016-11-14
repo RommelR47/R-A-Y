@@ -1,0 +1,57 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/2016/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <title>General Information -- Rommel Rivera</title>
+  <link href="eportfolio.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="container">
+  <div id="header">
+    <a href="#skip_navigation" id="skip_navigation_link">Skip Navigation</a>
+    <a href="http://www.instructure.com" title="Created with Canvas"><img class="logo" src="logo.png" alt="logo"/></a>
+    <h1>General Information</h1>
+    <h2><a href="Home_Welcome_.html">Rommel Rivera</a> &#187; <a href="About_General_Information.html">About</a></h2>
+    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+  <div id="nav-level2">
+    <ul>
+      <li class=""><a href="Home_Welcome_.html">Home</a></li>
+      <li class="current"><a href="About_General_Information.html">About</a></li>
+      <li class=""><a href="Contact_Contact_Details.html">Contact</a></li>
+    </ul>
+    <div class="clear"></div>
+  </div>
+  <div id="content">
+    <a name="skip_navigation"></a>
+    <h2>General Information</h2>
+    <div id="page_content">
+        <div class="section " id="page_section_1">
+  <div class="section_content">
+        <p>I'm not currently looking for new design work, but I'm available for speaking gigs and similar engagements.  If you have any questions please don't hesitate to contact me!</p>
+<p>Please only use phone contact for urgent inquiries.  Otherwise twitter and email are the best way to reach me</p>
+  </div>
+</div>
+
+    </div>
+  </div>
+  <div id="sidebar">
+    <div class="section_header">
+      About
+    </div>
+    <ul id="page_list">
+        <li id="page_5713" class="page current">
+          <a class="page_url" href="About_General_Information.html">
+            <span class="name">General Information</span>
+          </a>
+        </li>
+    </ul>
+  </div>
+</div>
+
+
+</body>
+</html>
